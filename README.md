@@ -15,7 +15,7 @@ A CNN model was built using convolution, pooling, dense, and dropout layers.
 ## Results:
 •	Training Accuracy: 94%
 
-•	Validation Accuracy: 84%
+•	Validation Accuracy: 86%
 ## Figures:
 Screenshots and outputs are included in the figures folder.
 ## GitHub:
