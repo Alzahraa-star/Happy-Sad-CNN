@@ -19,6 +19,6 @@ A CNN model was built using convolution, pooling, dense, and dropout layers.
 ## Figures:
 Screenshots and outputs are included in the figures folder.
 ## GitHub:
-https://github.com/Alzahraa-star/emotion-cnn-classification
+https://github.com/Alzahraa-star/Happy-Sad-CNN
 ## Dataset: 
 FER2013
